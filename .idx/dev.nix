@@ -12,6 +12,7 @@
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
     pkgs.graphite-cli
+    pkgs.fish
   ];
 
   # Sets environment variables in the workspace
